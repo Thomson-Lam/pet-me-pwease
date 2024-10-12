@@ -1,5 +1,5 @@
 # pet-me-pwease
-A quick learning project for front and back end web development technologies 
+A chrome browser pet extension, intended as a quick learning project for web dev 
 
 # React set up with Node JS 
 
