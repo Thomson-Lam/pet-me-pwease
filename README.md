@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pet-me-pwease
 A quick learning project for front and back end web development technologies 
 
@@ -16,6 +15,30 @@ check installation with:
 node --version
 npm --version
 ```
+
+# How to use:
+
+Clone the repo via SSH or HTTPS:
+```
+git clone <URL>
+```
+
+Cd into the directory:
+```
+cd pet-me-pwease
+```
+
+Install all dependencies:
+```
+npm install
+```
+
+
+
+> See more about Create React App below: 
+
+
+
 =======
 # Getting Started with Create React App
 
