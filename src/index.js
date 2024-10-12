@@ -3,7 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Component from './component';
 import reportWebVitals from './reportWebVitals';
+// require('dotenv').config();
 
+// const API_key = process.env.REACT_APP_API_KEY;
 const rootElement = document.getElementById('root');
 
 if (rootElement) {
