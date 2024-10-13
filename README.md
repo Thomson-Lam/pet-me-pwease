@@ -1,4 +1,4 @@
-# pet-me-pwease
+# Minke
 A chrome browser pet extension, intended as a quick learning project for web dev 
 
 # React set up with Node JS 
