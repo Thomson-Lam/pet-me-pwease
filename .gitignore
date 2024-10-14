@@ -12,8 +12,8 @@
 /build
 
 # build for chrome extension 
-/build.crx
-/build.pem
+build.crx
+build.pem
 
 # misc
 .DS_Store
