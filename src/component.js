@@ -2,6 +2,10 @@ import React from 'react';
 // import { render, screen } from '@testing-library/react'; // see if needed 
 
 
+/*
+this is to test if the .gitignore file works or not
+*/
+
 function component() {
     return (
         <div>
