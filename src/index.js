@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import Component from './component';
+import Component from './components/component.js';
 import reportWebVitals from './reportWebVitals';
+import FeedButton from './components/feedbutton.js';
 // require('dotenv').config();
 
 // const API_key = process.env.REACT_APP_API_KEY;
@@ -13,6 +14,7 @@ if (rootElement) {
     root.render(
         <React.StrictMode>
             <Component />
+            <FeedButton />
         </React.StrictMode>
     )
 } else {
