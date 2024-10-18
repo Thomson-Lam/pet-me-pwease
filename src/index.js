@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import Component from './component';
+import Component from './components/Bars';
 import reportWebVitals from './reportWebVitals';
 // require('dotenv').config();
 
