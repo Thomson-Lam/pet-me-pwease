@@ -1,6 +1,9 @@
 
 .bigDiv {
     height: 70px;
+    margin-left: 1rem;
+    margin-right:1rem;
+    
 }
 .barContainer {
     display: flex;
@@ -29,7 +32,7 @@
 }
 
 .bar {
-    flex: 8;
+    flex: 12;
     
 
 }
